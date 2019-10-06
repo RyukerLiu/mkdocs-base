@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# MkDocs with Netify
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
