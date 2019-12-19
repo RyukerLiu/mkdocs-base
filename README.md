@@ -1,3 +1,3 @@
-# Mkdocs with Netify
+# Mkdocs with Netlify
 
 https://ryuker-liu.netlify.com
